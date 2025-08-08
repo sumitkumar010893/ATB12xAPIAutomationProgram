@@ -55,7 +55,7 @@ In this repository, we explore a step-by-step journey through:
 ATB12x-API-Automation/
 │
 ├── src/
-│ └── test/
+|└── test/
 │ ├── java/
 │ │ ├── basics/ # Basic examples of Rest Assured
 │ │ ├── crud/ # GET, POST, PUT, DELETE examples
